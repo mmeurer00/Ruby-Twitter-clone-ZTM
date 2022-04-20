@@ -1,0 +1,3 @@
+- Install Tailwind with Rails
+  - https://tailwindcss.com/docs/guides/ruby-on-rails
+-
